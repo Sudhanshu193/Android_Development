@@ -2,4 +2,8 @@
     <string name="app_name">About Me</string>
     <string name="name">Sudhanshu</string>
     <string name="address">90A/4 Allapur Allahabad</string>
+    <string name="avatar">Avatar</string>
+    <string name="yellow_star">yellow_star</string>
+
+    <string name="scroll_text1">Scroll Text</string>
 </resources>
