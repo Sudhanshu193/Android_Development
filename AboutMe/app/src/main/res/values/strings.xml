@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">About Me</string>
+    <string name="name">Sudhanshu</string>
+    <string name="address">90A/4 Allapur Allahabad</string>
 </resources>
