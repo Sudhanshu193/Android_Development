@@ -17,7 +17,7 @@
         android:text="@string/name"
         android:textAlignment="center"
 
-        style="@style/style_textView" />
+        />
 
     <ImageView
         android:id="@+id/YellowStar"
@@ -29,19 +29,17 @@
         tools:srcCompat="@android:drawable/btn_star_big_on" />
 
     <ScrollView
+        android:id="@+id/bio"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        tools:ignore="SpeakableTextPresentCheck">
-
-        />
+        >
 
         <TextView
-            android:id="@+id/textView3"
+            android:id="@+id/textView6"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:contentDescription="@string/scroll_text1"
-            android:text="hii"
-            android:textSize="28sp" />
+
+            android:text="@string/bio" />
     </ScrollView>
 
 
