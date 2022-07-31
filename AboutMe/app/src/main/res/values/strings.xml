@@ -4,13 +4,13 @@
     <string name="address">90A/4 Allapur Allahabad</string>
     <string name="avatar">Avatar</string>
     <string name="yellow_star">yellow_star</string>
-    <string name="bio">Hi my name is Sudhanshu Tripathi.\n\n
-        /n I am currently persuing my Degree in Computer Science and Engineering.
+    <string name="bio">Hi my name is Sudhanshu Tripathi.
+         I am currently persuing my Degree in Computer Science and Engineering.
         I did my schooling from Prayagraj .I am keen learner i love to learn new things and love to travel for days.
-    /n Currently i am learning Android Development and trying my best to get my dream job
+     Currently i am learning Android Development and trying my best to get my dream job
     i have Knowledge in languages like C++ - Python - Kotlin and OOPS concept.
-        /n I have done my Project in Machine Learning
+        I have done my Project in Machine Learning
     where we build a model which use Linear Regression algorithm to predict Market price of house in surrounding.
-        /n I love to play Vollyball and pc games</string>
+         I love to play Vollyball and PC games</string>
 
 </resources>
