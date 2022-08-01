@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-
-
+<layout
+    xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:tools="http://schemas.android.com/tools">
+<LinearLayout
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:layout_marginTop="@dimen/layout_margin"
@@ -26,7 +26,7 @@
         android:id="@+id/nickName"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:autofillHints=""
+
         android:ems="10"
         android:hint="@string/what_is_your_nick_name"
         android:inputType="textPersonName"
@@ -46,6 +46,8 @@
     <TextView
         android:id="@+id/nickname_text"
         android:layout_width="match_parent"
+        android:fontFamily="@font/roboto"
+        android:textSize="20sp"
         android:layout_height="wrap_content"
         android:textAlignment="center"
         android:visibility="gone" />
@@ -55,7 +57,7 @@
         android:layout_width="match_parent"
         android:layout_height="75dp"
         android:contentDescription="@string/yellow_star"
-        app:srcCompat="@android:drawable/btn_star_big_on"
+        android:src="@android:drawable/btn_star_big_on"
         tools:ignore="ImageContrastCheck"
         tools:srcCompat="@android:drawable/btn_star_big_on" />
 
@@ -83,3 +85,4 @@
 
 
 </LinearLayout>
+</layout>
