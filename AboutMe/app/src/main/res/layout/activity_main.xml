@@ -7,6 +7,8 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:layout_marginTop="@dimen/layout_margin"
+    android:paddingStart="@dimen/padding"
+    android:paddingEnd="@dimen/padding"
     android:orientation="vertical"
     tools:context=".MainActivity">
 
@@ -15,9 +17,38 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/name"
+        android:textSize="28sp"
         android:textAlignment="center"
 
         />
+
+    <EditText
+        android:id="@+id/nickName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:autofillHints=""
+        android:ems="10"
+        android:hint="@string/what_is_your_nick_name"
+        android:inputType="textPersonName"
+        android:minHeight="48dp" />
+
+    <Button
+        android:id="@+id/done_button"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center_horizontal"
+        android:layout_marginTop="@dimen/layout_margin"
+        android:fontFamily="@font/roboto"
+        android:text="@string/done"/>
+
+    <TextView
+        android:id="@+id/nickname_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:visibility="gone" />
 
     <ImageView
         android:id="@+id/YellowStar"
@@ -37,12 +68,16 @@
             android:id="@+id/textView6"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/layout_margin"
+            android:layout_marginEnd="@dimen/margin"
+
             android:clickable="false"
             android:fontFamily="@font/roboto"
+            android:paddingStart="@dimen/padding"
+            android:paddingEnd="@dimen/padding"
             android:text="@string/bio"
             android:textAlignment="gravity"
-
-            android:textColor="#FF5252"
+            android:textColor="#D32F2F"
             android:textSize="18sp" />
     </ScrollView>
 

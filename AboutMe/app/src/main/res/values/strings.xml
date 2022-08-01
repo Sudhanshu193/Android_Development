@@ -1,16 +1,27 @@
 <resources>
     <string name="app_name">About Me</string>
-    <string name="name">Sudhanshu</string>
+    <string name="name">shreshth</string>
     <string name="address">90A/4 Allapur Allahabad</string>
     <string name="avatar">Avatar</string>
     <string name="yellow_star">yellow_star</string>
-    <string name="bio">Hi my name is Sudhanshu Tripathi.
-         I am currently persuing my Degree in Computer Science and Engineering.
-        I did my schooling from Prayagraj .I am keen learner i love to learn new things and love to travel for days.
-     Currently i am learning Android Development and trying my best to get my dream job
+    <string name="bio">Hi my name is Sudhanshu Tripathi.\n\n
+         \nI am currently persuing my Degree in Computer Science and Engineering.
+        I did my schooling from Prayagraj.
+        I am keen learner i love to learn new things and love to travel for days.
+     \n\nCurrently i am learning Android Development and trying my best to get my dream job
     i have Knowledge in languages like C++ - Python - Kotlin and OOPS concept.
-        I have done my Project in Machine Learning
+       \n\nI have done my Project in Machine Learning
     where we build a model which use Linear Regression algorithm to predict Market price of house in surrounding.
-         I love to play Vollyball and PC games</string>
+         I love to play Vollyball and PC games
+    \n m
+        \n
+        \n m
+        \n m
+        \n m
+        \n m
+        \n m
+        \n m</string>
+    <string name="what_is_your_nick_name">What is your nick Name</string>
+    <string name="done">Done</string>
 
 </resources>
