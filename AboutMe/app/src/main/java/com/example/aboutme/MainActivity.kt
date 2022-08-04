@@ -50,7 +50,7 @@ class MainActivity : AppCompatActivity() {
             doneButton.visibility = View.GONE
             nicknameText.visibility = View.VISIBLE
         }
-        // closeing keyboard tab
+        // closing keyboard tab
         val imm = getSystemService(Context.INPUT_METHOD_SERVICE) as InputMethodManager
         imm.hideSoftInputFromWindow(view.windowToken, 0)
     }
