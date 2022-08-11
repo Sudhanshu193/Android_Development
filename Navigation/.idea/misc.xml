@@ -3,10 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/LENOVO/OneDrive/Desktop/Android/Navigation/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Users/LENOVO/OneDrive/Desktop/Android/Navigation/app/src/main/res/layout/fragment_about.xml" value="0.1" />
         <entry key="..\:/Users/LENOVO/OneDrive/Desktop/Android/Navigation/app/src/main/res/layout/fragment_game.xml" value="0.1" />
         <entry key="..\:/Users/LENOVO/OneDrive/Desktop/Android/Navigation/app/src/main/res/layout/fragment_game_over.xml" value="0.1" />
         <entry key="..\:/Users/LENOVO/OneDrive/Desktop/Android/Navigation/app/src/main/res/layout/fragment_rules.xml" value="0.1" />
+        <entry key="..\:/Users/LENOVO/OneDrive/Desktop/Android/Navigation/app/src/main/res/layout/fragment_title.xml" value="0.25181159420289856" />
       </map>
     </option>
   </component>
