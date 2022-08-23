@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "904485279124",
+    "project_id": "wallpaper-e576f",
+    "storage_bucket": "wallpaper-e576f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904485279124:android:b5216d62e1b75dfd8b2b81",
+        "android_client_info": {
+          "package_name": "com.example.loginpage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904485279124-7son076702bjvc5l6hiljjbj72g9p9d2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt6LdvI50cNlt1JYSLah2-m2GWPAJaN7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904485279124-7son076702bjvc5l6hiljjbj72g9p9d2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
