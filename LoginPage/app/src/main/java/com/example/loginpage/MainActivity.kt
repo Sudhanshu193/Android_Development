@@ -3,11 +3,8 @@ package com.example.loginpage
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.view.View
-import android.widget.TextView
 import android.widget.Toast
 import com.example.loginpage.databinding.ActivityMainBinding
-import com.example.loginpage.databinding.ActivityRegisterBinding
 import com.google.firebase.auth.FirebaseAuth
 
 class MainActivity : AppCompatActivity() {
